@@ -1,2 +1,2 @@
 # Examples
-Pointers to live meshes (e.g., Nashdale-Civic-Mesh) and exemplar cards.
+- Nashdale Civic Mesh — https://github.com/Nashdale-Civic-Mesh
